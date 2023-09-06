@@ -322,7 +322,7 @@ grid-column:span 4;
 
 }
 
-header h1 {
+.header-main h1 {
       font-size: 5.6rem;
 }
 .box{
