@@ -413,6 +413,8 @@ align-items: center;
 .background-box {
       justify-content: center;
 }
-
+.box-text {
+      align-items: baseline;
+}
 
 }
