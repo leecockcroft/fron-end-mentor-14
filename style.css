@@ -288,6 +288,8 @@ nav{
   display:grid;
   grid-template-columns: 1fr 1fr;
   padding-top:1.6rem;
+  align-items: center;
+
 }
 .mobile-burger{
   display:none;
