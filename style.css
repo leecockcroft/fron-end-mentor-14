@@ -304,7 +304,7 @@ nav{
     justify-content: space-around;
     list-style:none;
     color:#fff;
-
+align-items: center;
     font-family: Barlow;
     font-size: 1.8rem;
     font-style: normal;
@@ -320,6 +320,14 @@ grid-column:span 4;
   background-size:cover;
       height: 80rem;
 
+}
+
+.contact{
+  border: 1px solid black;
+padding: 1rem 3rem;
+border-radius: 3rem;
+background: #fff;
+color: #000;
 }
 
 .header-main h1 {
