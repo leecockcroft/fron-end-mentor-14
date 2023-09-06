@@ -310,6 +310,7 @@ nav{
     font-weight: 600;
     line-height: 2.5rem; /* 138.889% */
     letter-spacing: -0.129px;
+    padding-bottom:12rem;
 }
 header{
 grid-column:span 4;
