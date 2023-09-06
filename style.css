@@ -360,6 +360,10 @@ color: #000;
   text-align:left;
 }
 
+.box-text h3{
+  font-size:4rem;
+}
+
 .box-text p {
   color: #808397;
 font-family: Barlow;
