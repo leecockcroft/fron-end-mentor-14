@@ -288,6 +288,7 @@ grid-column:span 4;
   background: url('./images/desktop/image-header.jpg');
   background-repeat:no-repeat;
   background-size:contain;
+      padding-bottom: 36rem;
 
 }
 .box{
