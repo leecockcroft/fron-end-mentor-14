@@ -278,7 +278,7 @@ grid-row:8;
 
 @media (min-width:728px){
 .wrapper{
-  max-width: 1440px;
+  max-width: 1170px;
   margin: auto;
 
 
@@ -287,6 +287,7 @@ header{
 grid-column:span 4;
   background: url('./images/desktop/image-header.jpg');
   background-repeat:no-repeat;
+  background-size:contain;
 
 }
 .box{
