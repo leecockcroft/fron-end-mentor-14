@@ -386,12 +386,15 @@ align-items: center;
 
 .testimonials h3 {
   padding-top:9rem;
+  font-size:2rem;
 }
 
 .photo-wrapper{
       grid-template-columns: repeat(4,1fr);
 }
-
+.background-box {
+      justify-content: center;
+}
 
 
 }
