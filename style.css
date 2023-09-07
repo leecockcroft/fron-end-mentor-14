@@ -348,6 +348,10 @@ color: #000;
 .header-main h1 {
       font-size: 5.6rem;
 }
+
+.header-main-img {
+  padding-bottom:0;
+}
 .box{
   grid-column:span 2;
 }
@@ -414,6 +418,7 @@ align-items: center;
 .testimonials h3 {
   padding-top:9rem;
   font-size:2rem;
+  padding: 12.8rem 0;
 }
 
 .photo-wrapper{
