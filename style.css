@@ -284,6 +284,10 @@ grid-row:8;
 
 }
 
+.logo-wrapper{
+  width:10rem;
+}
+
 nav{
   display:grid;
   grid-template-columns: 2fr 1fr;
