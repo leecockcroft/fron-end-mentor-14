@@ -286,7 +286,7 @@ grid-row:8;
 
 nav{
   display:grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 2fr 1fr;
   padding-top:1.6rem;
   align-items: center;
   padding-bottom:12rem;
