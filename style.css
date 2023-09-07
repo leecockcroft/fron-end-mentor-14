@@ -295,12 +295,12 @@ nav{
   display:none;
 }
 
-.desktop-nav{
+.desktop-nav,.logo-wrapper{
 
   display:block;
 
     position: relative;
-    top: 2rem;
+    top: 3rem;
 
 }
 
@@ -321,7 +321,7 @@ align-items: center;
   font-weight: 600;
   line-height: 2.5rem; /* 138.889% */
   letter-spacing: -0.129px;
-  padding-bottom:12rem;
+
 }
 header{
 grid-column:span 4;
