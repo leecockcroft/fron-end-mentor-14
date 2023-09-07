@@ -285,7 +285,7 @@ grid-row:8;
 }
 
 .logo-wrapper{
-  width:10rem;
+  width:12rem;
 }
 
 nav{
@@ -339,7 +339,7 @@ grid-column:span 4;
 
 .contact{
 
-    padding: 0.5rem 3rem;
+    padding: 1rem 3rem;
 border-radius: 3rem;
 background: #fff;
 color: #000;
